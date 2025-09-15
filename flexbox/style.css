@@ -1,0 +1,43 @@
+#wrapper{
+
+width: 80vw;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+
+header{
+    background-color: pink;
+    height:100px;
+    width: 100%;
+}
+
+nav{
+    background-color: rgb(41, 37, 38);
+    height:100px;
+    width: 100%;
+}
+
+main{
+    background-color: rgb(119, 16, 33);
+    height:400px;
+    width: 75%;
+}
+
+aside{
+    background-color: rgb(236, 90, 114);
+    height:400px;
+    width: 25%;
+}
+
+footer{
+    background-color: rgb(75, 21, 30);
+    height:100px;
+    width: 100%;
+}
+
+#container{
+
+    display:flex;
+}
